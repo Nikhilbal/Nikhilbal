@@ -5,11 +5,11 @@
 <h2 align="center">Hi, I'm Bala Nikhil 👋</h2>
 
 <p align="center">
-  <strong>Cybersecurity-Focused Developer &nbsp;•&nbsp; AI-Agent Security &nbsp;•&nbsp; Secure Backend Systems</strong>
+  <strong>Aspiring Cloud Security Analyst &nbsp;•&nbsp; IAM &amp; Network Security &nbsp;•&nbsp; AI Security Research</strong>
 </p>
 
 <p align="center">
-  Exploring how to make AI-powered systems <strong>secure by design</strong> through authorization, least privilege, threat modeling, and hands-on experimentation.
+  Focused on securing cloud-connected systems through <strong>identity and access management, network security, secure APIs, and practical security engineering</strong>. Building hands-on research projects and developing AWS/Azure cloud security skills.
 </p>
 
 <p align="center">
@@ -77,11 +77,11 @@
 
 ## 👨‍💻 About me
 
-I'm an **Electronics & Communication Engineering graduate** building my focus in **cybersecurity, AI security, identity and access management, network security, and cloud security**.
+I'm an **Electronics & Communication Engineering graduate** working toward a career as a **Cloud Security Analyst**. My learning focuses on **cloud IAM, network security, least-privilege architecture, secure APIs, and security monitoring**, supported by hands-on labs and security research projects.
 
 I enjoy connecting security principles with working systems: defining a threat, building the control, testing it under normal and adversarial conditions, and documenting what the evidence actually supports.
 
-**Interested in:** cybersecurity / application-security internships, junior security engineering, secure backend development, and practical security research.
+**Target roles:** Cloud Security Analyst internships, cloud/security operations internships, and junior security engineering opportunities. I'm strengthening my AWS/Azure foundations alongside networking and Linux security.
 
 ## 🚀 Selected projects
 
@@ -124,7 +124,7 @@ I enjoy connecting security principles with working systems: defining a threat, 
 | 🌐 **Networking & systems** | TCP/IP fundamentals, Linux, Wireshark, Kali/Ubuntu security labs, Docker isolation |
 | 🧑‍💻 **Development** | Python, Java, JavaScript/TypeScript, SQL, FastAPI, Node.js, REST APIs |
 | 🗄️ **Data & platforms** | PostgreSQL, Streamlit, Git/GitHub, local Ollama models |
-| 📚 **Currently learning** | Cloud security, practical network security, security architecture and adversarial testing |
+| 📚 **Currently learning** | AWS/Azure cloud security fundamentals, cloud IAM, cloud logging/monitoring, network security, and adversarial testing |
 
 ## 🔍 How I work
 
@@ -133,7 +133,7 @@ I enjoy connecting security principles with working systems: defining a threat, 
 ---
 
 <p align="center">
-  <b>Open to cybersecurity internships, early-career security engineering opportunities, and technical collaboration.</b>
+  <b>Aspiring Cloud Security Analyst — open to relevant internships, early-career security opportunities, and technical collaboration.</b>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/bala-nikhil-91225b287/">Connect on LinkedIn</a>

@@ -5,11 +5,11 @@
 <h2 align="center">Hi, I'm Bala Nikhil 👋</h2>
 
 <p align="center">
-  <strong>Aspiring Cloud Security Analyst &nbsp;•&nbsp; IAM &amp; Network Security &nbsp;•&nbsp; AI Security Research</strong>
+  <strong>Aspiring Cloud Security Analyst &nbsp;•&nbsp; SOC / Security Operations &nbsp;•&nbsp; IAM &amp; Network Security</strong>
 </p>
 
 <p align="center">
-  Focused on securing cloud-connected systems through <strong>identity and access management, network security, secure APIs, and practical security engineering</strong>. Building hands-on research projects and developing AWS/Azure cloud security skills.
+  Building toward <strong>Cloud Security Analyst</strong> roles through security operations, identity and access management, network analysis, and practical security engineering. Currently preparing for the ISC2 Certified in Cybersecurity (CC) exam and strengthening Linux / Wireshark lab skills.
 </p>
 
 <p align="center">
@@ -79,9 +79,18 @@
 
 I'm an **Electronics & Communication Engineering graduate** working toward a career as a **Cloud Security Analyst**. My learning focuses on **cloud IAM, network security, least-privilege architecture, secure APIs, and security monitoring**, supported by hands-on labs and security research projects.
 
+### Hands-on security learning
+
+- **ISC2 CC:** Preparing for the Certified in Cybersecurity exam — certification not yet earned.
+- **Virtualization & Linux:** Using UTM on Apple Silicon for Kali Linux and Ubuntu virtual-machine labs.
+- **Network analysis:** Practicing Wireshark traffic inspection and TCP/IP, DNS, ARP, and SSH fundamentals.
+- **Cloud security direction:** Learning AWS identity, least privilege, cloud logging, and secure network architecture.
+
+These are ongoing learning activities, not claimed professional SOC or AWS production experience.
+
 I enjoy connecting security principles with working systems: defining a threat, building the control, testing it under normal and adversarial conditions, and documenting what the evidence actually supports.
 
-**Target roles:** Cloud Security Analyst internships, cloud/security operations internships, and junior security engineering opportunities. I'm strengthening my AWS/Azure foundations alongside networking and Linux security.
+**Career direction:** Cloud Security Analyst is my long-term specialization. For early-career opportunities, I'm also targeting **SOC Analyst (Level 1), Junior Security Analyst, and Security Operations internships** to develop strong detection and incident-triage fundamentals.
 
 ## 🚀 Selected projects
 
@@ -121,10 +130,10 @@ I enjoy connecting security principles with working systems: defining a threat, 
 | Area | Tools and concepts |
 | --- | --- |
 | 🛡️ **Security engineering** | IAM/RBAC, least privilege, API authorization, audit trails, prompt-injection evaluation |
-| 🌐 **Networking & systems** | TCP/IP fundamentals, Linux, Wireshark, Kali/Ubuntu security labs, Docker isolation |
+| 🌐 **Networking & systems** | TCP/IP fundamentals, Wireshark packet analysis, Kali/Ubuntu virtual-machine labs using UTM, Docker isolation |
 | 🧑‍💻 **Development** | Python, Java, JavaScript/TypeScript, SQL, FastAPI, Node.js, REST APIs |
 | 🗄️ **Data & platforms** | PostgreSQL, Streamlit, Git/GitHub, local Ollama models |
-| 📚 **Currently learning** | AWS/Azure cloud security fundamentals, cloud IAM, cloud logging/monitoring, network security, and adversarial testing |
+| 📚 **Currently learning** | ISC2 Certified in Cybersecurity (CC) exam preparation (not yet certified), AWS cloud security, cloud IAM/logging, SOC investigation fundamentals, and authorized security labs |
 
 ## 🔍 How I work
 
@@ -133,7 +142,7 @@ I enjoy connecting security principles with working systems: defining a threat, 
 ---
 
 <p align="center">
-  <b>Aspiring Cloud Security Analyst — open to relevant internships, early-career security opportunities, and technical collaboration.</b>
+  <b>Aspiring Cloud Security Analyst — exploring SOC Analyst L1, Junior Security Analyst, and cloud/security operations internships.</b>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/bala-nikhil-91225b287/">Connect on LinkedIn</a>

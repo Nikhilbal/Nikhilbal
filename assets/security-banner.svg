@@ -11,17 +11,17 @@
   <circle cx="1120" cy="64" r="6" fill="#7eeeae"/>
   <circle cx="1095" cy="64" r="6" fill="#caad65"/>
   <circle cx="1070" cy="64" r="6" fill="#54757e"/>
-  <text x="58" y="67" font-family="monospace" font-size="17" font-weight="bold" letter-spacing="2.9" fill="#82e9b1">SECURE SYSTEMS  /  AI SECURITY  /  BACKEND ENGINEERING</text>
+  <text x="58" y="67" font-family="monospace" font-size="17" font-weight="bold" letter-spacing="2.9" fill="#82e9b1">CLOUD SECURITY  /  SECURITY OPERATIONS  /  IAM</text>
   <text x="58" y="146" font-family="Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="2" fill="#f0f7f3">BALA NIKHIL</text>
   <rect x="58" y="168" width="665" height="3" rx="1" fill="url(#stripe)"/>
-  <text x="58" y="211" font-family="Arial, sans-serif" font-size="24" font-weight="normal" fill="#b8cec7">Cybersecurity-focused developer building</text>
-  <text x="58" y="242" font-family="Arial, sans-serif" font-size="24" font-weight="normal" fill="#b8cec7">defensible systems for AI-powered workflows.</text>
+  <text x="58" y="211" font-family="Arial, sans-serif" font-size="24" font-weight="normal" fill="#b8cec7">Aspiring Cloud Security Analyst</text>
+  <text x="58" y="242" font-family="Arial, sans-serif" font-size="24" font-weight="normal" fill="#b8cec7">Security operations  /  Threat investigation</text>
   <rect x="58" y="268" width="192" height="30" rx="6" fill="#183932" stroke="#346a56"/>
-  <text x="75" y="288" font-family="monospace" font-size="14" font-weight="bold" fill="#b7f8c8">AI AGENT SECURITY</text>
+  <text x="75" y="288" font-family="monospace" font-size="14" font-weight="bold" fill="#b7f8c8">CLOUD SECURITY</text>
   <rect x="264" y="268" width="162" height="30" rx="6" fill="#183038" stroke="#3b6870"/>
-  <text x="281" y="288" font-family="monospace" font-size="14" font-weight="bold" fill="#bcdde7">ACCESS CONTROL</text>
+  <text x="281" y="288" font-family="monospace" font-size="14" font-weight="bold" fill="#bcdde7">NETWORK SECURITY</text>
   <rect x="440" y="268" width="167" height="30" rx="6" fill="#2e2e26" stroke="#7a6748"/>
-  <text x="458" y="288" font-family="monospace" font-size="14" font-weight="bold" fill="#efd29c">DEFENSE IN DEPTH</text>
+  <text x="458" y="288" font-family="monospace" font-size="14" font-weight="bold" fill="#efd29c">SECURITY RESEARCH</text>
   <!-- Simple network-boundary emblem, not a product-logo claim. -->
   <g transform="translate(914,124)" fill="none" stroke="#7ae1b9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
     <path d="M0 -70 L75 -38 L75 40 Q75 82 0 118 Q-75 82 -75 40 L-75 -38 Z" fill="#11392e" opacity=".9"/>

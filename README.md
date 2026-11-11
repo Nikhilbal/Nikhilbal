@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/Nikhilbal/synthshield"><b>🛡️ Flagship Project</b></a>
   &nbsp;·&nbsp;
-  <a href="https://bala-nikhil-portfolio.vercel.app">🌐 Portfolio</a>
+  <a href="https://bala-nikhil-3d-portfolio.onrender.com/">🌐 Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/bala-nikhil-91225b287/">💼 LinkedIn</a>
   &nbsp;·&nbsp;
@@ -147,7 +147,7 @@ I enjoy connecting security principles with working systems: defining a threat, 
 <p align="center">
   <a href="https://www.linkedin.com/in/bala-nikhil-91225b287/">Connect on LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://bala-nikhil-portfolio.vercel.app">View portfolio</a>
+  <a href="https://bala-nikhil-3d-portfolio.onrender.com/">View portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Nikhilbal/synthshield">See SYNTHSHIELD</a>
 </p>
